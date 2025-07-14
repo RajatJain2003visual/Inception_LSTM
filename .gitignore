@@ -1,0 +1,11 @@
+annotations_trainval2014
+annotations_trainval2017
+annotations_trainval2014
+train2014
+val2014
+val2017
+new_new_best_modelweights1.pth.tar
+__pycache__
+test.ipynb
+test_img.jpg
+BanhadauAttentionVisualization
