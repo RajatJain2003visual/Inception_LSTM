@@ -48,7 +48,11 @@ nltk.download('punkt')
 - `BanhadauAttentionVisualization/` — Additional attention visualizations.
 - `ss.png` — Screenshot of the web app.
 - `VisualizingBanhadauAttention.png` — Example of attention visualization.
-- [Colab Training Notebook](https://colab.research.google.com/drive/1nsNBigyTq0jt2ZIw2PhlOLtr3nN5Iwd5?usp=sharing) — Train or experiment with the model in Google Colab.
+### Colab Notebook  
+Use the button below to train or experiment with the model directly in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nsNBigyTq0jt2ZIw2PhlOLtr3nN5Iwd5?usp=sharing)
+
 
 ---
 
