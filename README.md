@@ -48,6 +48,7 @@ nltk.download('punkt')
 - `BanhadauAttentionVisualization/` — Additional attention visualizations.
 - `ss.png` — Screenshot of the web app.
 - `VisualizingBanhadauAttention.png` — Example of attention visualization.
+- [Colab Training Notebook](https://colab.research.google.com/drive/1nsNBigyTq0jt2ZIw2PhlOLtr3nN5Iwd5?usp=sharing) — Train or experiment with the model in Google Colab.
 
 ---
 
@@ -75,6 +76,7 @@ streamlit run app.py
 - **Training Data**: Flickr30k (see notebooks for details)
 - **Beam Search**: Used for generating diverse and high-quality captions
 - **Performance**: Achieved BLEU-1 score of **0.64** on the test set
+- **Colab Training Notebook**: [https://colab.research.google.com/drive/1nsNBigyTq0jt2ZIw2PhlOLtr3nN5Iwd5?usp=sharing](https://colab.research.google.com/drive/1nsNBigyTq0jt2ZIw2PhlOLtr3nN5Iwd5?usp=sharing)
 
 ---
 
